@@ -1,0 +1,7 @@
+D:\OneDrive\Masaüstü\OdevOyun\Yeni klasör (2)\Odev1-Notlarim\Oyun\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\OneDrive\Masaüstü\OdevOyun\Yeni klasör (2)\Odev1-Notlarim\Oyun\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\OneDrive\Masaüstü\OdevOyun\Yeni klasör (2)\Odev1-Notlarim\Oyun\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\OneDrive\Masaüstü\OdevOyun\Yeni klasör (2)\Odev1-Notlarim\Oyun\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\OneDrive\Masaüstü\OdevOyun\Yeni klasör (2)\Odev1-Notlarim\Oyun\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Masaüstü\OdevOyun\Yeni klasör (2)\Odev1-Notlarim\Oyun\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\OneDrive\Masaüstü\OdevOyun\Yeni klasör (2)\Odev1-Notlarim\Oyun\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
